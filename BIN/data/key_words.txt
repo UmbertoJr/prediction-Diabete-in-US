@@ -1,0 +1,1 @@
+['diabete', 'Diabetes mellitus', 'Gestational diabetes', 'Diabetes insipidus', 'diabetes mellitus type 2', 'Type 1 diabetes', 'diabetes', 'hypertension', 'type 2 diabetes', 'hyperglycemia', 'cholesterol', 'obese','gluten']
